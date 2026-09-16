@@ -2,7 +2,7 @@ name: Generate metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"      # daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches: [master]
@@ -24,23 +24,12 @@ jobs:
           config_timezone: Asia/Kolkata
           config_display: large
 
-          # Core sections
           base: header, activity, community, repositories, metadata
 
-          # Top languages
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_sections: most-used
           plugin_languages_colors: github
 
-          # Lines of code added / removed across your repos
-          plugin_lines: yes
-          plugin_lines_sections: base
-
-          # Issues & PRs you've opened / had merged
           plugin_followup: yes
           plugin_followup_sections: repositories
-
-          # Flat contribution calendar (current year) — reliable, unlike the 3D one
-          plugin_calendar: yes
-          plugin_calendar_limit: 1

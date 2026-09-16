@@ -51,15 +51,17 @@ class AakashSaxena:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,flask,docker,git,github,postman,bash,linux,vscode&perline=6" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,mysql,postgres,sqlite,flask,docker,postman,git,github,bash,linux,pycharm,webstorm,vscode&perline=8" alt="skills"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/API%20Integration-38BDF8?style=flat-square&logo=swagger&logoColor=black" alt="API Integration"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST"/>
+  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Webhooks-FF6F00?style=flat-square&logo=webhooks&logoColor=white" alt="Webhooks"/>
   <img src="https://img.shields.io/badge/Fivetran-0073FF?style=flat-square&logoColor=white" alt="Fivetran"/>
   <img src="https://img.shields.io/badge/Hevo%20Data-FF5C00?style=flat-square&logoColor=white" alt="Hevo"/>
-  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger"/>
   <img src="https://img.shields.io/badge/Marshmallow-B5651D?style=flat-square&logoColor=white" alt="Marshmallow"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST"/>
   <img src="https://img.shields.io/badge/ELT%20%2F%20ETL-6A1B9A?style=flat-square&logo=apacheairflow&logoColor=white" alt="ELT"/>
 </p>
 
@@ -70,31 +72,54 @@ class AakashSaxena:
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/saxenaaakashj1/fitness_studio_api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saxenaaakashj1&repo=fitness_studio_api&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="fitness_studio_api"/>
-      </a>
-      <br/><sub>🧘 Flask REST API · Timezone-aware bookings · Swagger UI · Docker</sub>
+    <td width="50%" valign="top">
+      <h3 align="center">🧘 <a href="https://github.com/saxenaaakashj1/fitness_studio_api">fitness_studio_api</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Marshmallow-B5651D?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <p align="center">A Flask RESTful API for fitness class bookings — view classes, book slots, fetch bookings. Timezone-aware responses, Swagger UI docs, fully Dockerized.</p>
+      <p align="center">
+        <a href="https://github.com/saxenaaakashj1/fitness_studio_api"><img src="https://img.shields.io/badge/View%20Repo-→-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/saxenaaakashj1/ELT-Pipeline">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saxenaaakashj1&repo=ELT-Pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="ELT-Pipeline"/>
-      </a>
-      <br/><sub>🔁 CSV → MySQL CLI pipeline · Validation · Upserts & soft deletes</sub>
+    <td width="50%" valign="top">
+      <h3 align="center">🔁 <a href="https://github.com/saxenaaakashj1/ELT-Pipeline">ELT-Pipeline</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+      </p>
+      <p align="center">A Python CLI pipeline that reads, validates, and loads CSV data into MySQL with intelligent sync — upserts and soft deletes built in.</p>
+      <p align="center">
+        <a href="https://github.com/saxenaaakashj1/ELT-Pipeline"><img src="https://img.shields.io/badge/View%20Repo-→-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/saxenaaakashj1/HackerRank-SQL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saxenaaakashj1&repo=HackerRank-SQL&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="HackerRank-SQL"/>
-      </a>
-      <br/><sub>🗃️ SQL solutions to HackerRank problems</sub>
+    <td width="50%" valign="top">
+      <h3 align="center">🗃️ <a href="https://github.com/saxenaaakashj1/HackerRank-SQL">HackerRank-SQL</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
+      </p>
+      <p align="center">SQL solutions to HackerRank problems, organized to help others learn and practice SQL effectively.</p>
+      <p align="center">
+        <a href="https://github.com/saxenaaakashj1/HackerRank-SQL"><img src="https://img.shields.io/badge/View%20Repo-→-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/saxenaaakashj1/HackerRank-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saxenaaakashj1&repo=HackerRank-Python&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="HackerRank-Python"/>
-      </a>
-      <br/><sub>🐍 Python solutions to HackerRank problems</sub>
+    <td width="50%" valign="top">
+      <h3 align="center">🐍 <a href="https://github.com/saxenaaakashj1/HackerRank-Python">HackerRank-Python</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
+      </p>
+      <p align="center">Python solutions to HackerRank problems, aimed at helping others learn and practice coding.</p>
+      <p align="center">
+        <a href="https://github.com/saxenaaakashj1/HackerRank-Python"><img src="https://img.shields.io/badge/View%20Repo-→-38BDF8?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -104,21 +129,13 @@ class AakashSaxena:
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 ## 📊 GitHub Stats
 
+<!-- Generated inside this repo by .github/workflows/metrics.yml — no third-party rate limits -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saxenaaakashj1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" height="170" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenaaakashj1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="170" alt="top langs"/>
+  <img src="https://raw.githubusercontent.com/saxenaaakashj1/saxenaaakashj1/main/github-metrics.svg" width="100%" alt="GitHub metrics"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saxenaaakashj1&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saxenaaakashj1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true" width="100%" alt="activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saxenaaakashj1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
 </p>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->

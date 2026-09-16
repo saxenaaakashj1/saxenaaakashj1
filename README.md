@@ -131,7 +131,7 @@ class AakashSaxena:
 
 <!-- Generated inside this repo by .github/workflows/metrics.yml — no third-party rate limits -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saxenaaakashj1/saxenaaakashj1/main/github-metrics.svg" width="100%" alt="GitHub metrics"/>
+  <img src="https://raw.githubusercontent.com/saxenaaakashj1/saxenaaakashj1/master/github-metrics.svg" width="100%" alt="GitHub metrics"/>
 </p>
 
 <p align="center">

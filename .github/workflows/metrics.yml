@@ -33,18 +33,14 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_colors: github
 
-          # Contribution calendar (last 6 months)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # Lines of code added / removed across your repos
+          plugin_lines: yes
+          plugin_lines_sections: base
 
-          # Achievements (replaces the trophy card)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
+          # Issues & PRs you've opened / had merged
+          plugin_followup: yes
+          plugin_followup_sections: repositories
 
-          # Commit habits — when you code, what you code
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
+          # Flat contribution calendar (current year) — reliable, unlike the 3D one
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
